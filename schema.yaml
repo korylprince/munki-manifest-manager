@@ -1,0 +1,16 @@
+default:
+  catalogs:
+    - catalog1
+    - catalog2
+  manifests:
+    - manifest1
+    - manifest2
+devices:
+  - name: John Smith
+    serial: F8FX3XY151WK
+    catalogs:
+      - catalog3
+      - catalog4
+    manifests:
+      - manifest3
+      - manifest4
